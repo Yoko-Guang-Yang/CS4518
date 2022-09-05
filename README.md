@@ -1,2 +1,2 @@
-# CS4518 Team 8 Project 
+# CS4518
  Not Lonesome George
